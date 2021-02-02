@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	shellcode "github.com/brimstone/go-shellcode"
+	shellcode "github.com/hakuQAQ/go-shellcode"
 )
 
 // This program runs the shellcode from: https://www.exploit-db.com/exploits/40245/
